@@ -1,6 +1,6 @@
-# Frontend
+# Project
 
-Frontend application for the **User Authentication Next.js + FastAPI + JWT** project.
+Full Stack application for the **User Authentication Next.js + FastAPI + JWT** project.
 
 ## Overview
 
