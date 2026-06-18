@@ -32,7 +32,7 @@ A full-stack authentication starter project using Next.js on the frontend and Fa
 - npm or yarn
 
 ### Backend Setup
-
+create venv first
 ```powershell
 
 .venv\Scripts\Activate.ps1
